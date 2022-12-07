@@ -17,7 +17,7 @@ module.exports = {
                     .replace(/@/g, "@" + String.fromCharCode(8203));
             else return text;
         }
-        let owner = '457556815345877003'
+        let owner = '742056936136245259'
 
         if (!owner.includes(message.author.id)) return;
 
