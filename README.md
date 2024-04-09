@@ -6,7 +6,6 @@ apparently i broke index.js so i rewrote it.
 This is a feature-rich bot with multiple purposes - Music, High Moderation, Fun, Info, Economy System, discord-telephone, Image Manipulation.
 It has over 120 commands! Made with discord.js and last but not the least, Multi and Singleplayer Games for your entertainment! This repo provides support to everyone, feel free to open an issue
 
-STAR THE PROJECT IF YOU LIKE IT :)
 
 ## List of Commands - ##
 * Economy
